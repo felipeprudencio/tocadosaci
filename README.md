@@ -18,14 +18,22 @@ Informações sobre a pontuação
 Em um conjunto de casos de teste equivalente a 20 pontos, Emília está em uma sala que só possui uma sala vizinha com estrelinhas (como no exemplo 1).
 
 Exemplos
-Entrada
-4 5
+<tr>
+    <td valign="top" width="50%">
+      <b>Entrada</b>
+      <pre>4 5
 0 1 1 1 0
 0 2 0 1 1
 0 0 0 0 1
 3 1 1 1 1
-Saída
-12
+</pre>
+      </td>
+    <td valign="top" width="50%">
+      <b>Saída</b>
+      <pre>12
+	</pre>
+      </td>
+    </tr>
 	
  
 
