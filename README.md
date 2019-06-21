@@ -17,8 +17,10 @@ apenas uma sala tem o valor 3.
 Informações sobre a pontuação
 Em um conjunto de casos de teste equivalente a 20 pontos, Emília está em uma sala que só possui uma sala vizinha com estrelinhas (como no exemplo 1).
 
-Exemplos
-<tr>
+<h3>Exemplos</h3>
+
+<table width="100%" cellspace="2" border="1">
+  <tbody><tr>
     <td valign="top" width="50%">
       <b>Entrada</b>
       <pre>4 5
@@ -34,26 +36,43 @@ Exemplos
 	</pre>
       </td>
     </tr>
-	
- 
-
-Entrada
-4 5
+</tbody></table>
+<p>&nbsp;</p>
+<table width="100%" cellspace="2" border="1">
+  <tbody><tr>
+    <td valign="top" width="50%">
+      <b>Entrada</b>
+      <pre>4 5
 0 0 0 1 0
 0 0 0 1 1
 0 0 0 0 2
 0 3 1 1 1
-Saída
-5
-	
- 
-
-Entrada
-4 5
+</pre>
+      </td>
+    <td valign="top" width="50%">
+      <b>Saída</b>
+      <pre>5
+	</pre>
+      </td>
+    </tr>
+</tbody></table>
+<p>&nbsp;</p>
+<table width="100%" cellspace="2" border="1">
+  <tbody><tr>
+    <td valign="top" width="50%">
+      <b>Entrada</b>
+      <pre>4 5
 0 1 2 1 0
 0 1 0 1 1
 0 0 0 0 1
 3 1 1 1 1
-Saída
-10
-	
+</pre>
+      </td>
+    <td valign="top" width="50%">
+      <b>Saída</b>
+      <pre>10
+	</pre>
+      </td>
+    </tr>
+</tbody></table>
+<p>&nbsp;</p>
